@@ -1,0 +1,25 @@
+#body {
+    background-color: #ddd;
+}
+
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 500px;
+}
+.style{
+    padding-top: 15%;
+}
+.style h1{
+    font-family: 'Pacifico';
+}
+.card img{
+    min-height: 250px;
+    max-height: 250px;
+}
